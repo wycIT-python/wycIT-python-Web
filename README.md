@@ -8,10 +8,10 @@ Web开发
 
 中国开发/made in china
 
-**欢迎访问：39.172.15.105:80**
+**欢迎访问**
 
-**welcome visit:39.172.15.105:80**
+**welcome visi**
 
-开放时间：8:00-16:00（UTC+8）
+开放时间：暂未开放
 
-OPENING HOURS：8:00-16:00（UTC+8）
+OPENING HOURS：Loading......
